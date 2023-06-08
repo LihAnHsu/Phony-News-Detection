@@ -1,5 +1,5 @@
 # Phony-News-Detection
-Data source:https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification
+Data source:https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification (download the file if you want to practice along)
 
 The goal of this project is using ML model on purely text content to detect our target (phony news or real news?)
 
